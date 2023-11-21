@@ -34,14 +34,12 @@
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" height="75" width="75"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="75" width="75"/>
   </div>
   
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original-wordmark.svg" height="75" width="75"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" height="75" width="75"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="75" width="75"/>
   </div>
   
