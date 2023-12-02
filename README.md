@@ -39,7 +39,6 @@
     <a target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Kotlin-6959CD?style=for-the-badge&logo=Kotlin&logoColor=white" target="_blank"></a>
     <a target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Java-FF6347?style=for-the-badge&logo=javalenguage&logoColor=white" target="_blank"></a>
     <a target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Compose-8FBC8F?style=for-the-badge&logo=Jetpackcompose&logoColor=white" target="_blank"></a>
-    <a target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Firebase-ff2401?style=for-the-badge&logo=Firebase&logoColor=white" target="_blank"></a>
   </div>
   
   <!-- Skills: Tools & Frameworks -->
