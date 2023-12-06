@@ -33,15 +33,15 @@
 
 
 ## 🔥 Skills
-<!-- Skills: Programming Languages -->
+<!--->
   <div>
     <h3>Programming Tools</h3>
-    <a target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Kotlin-6959CD?style=for-the-badge&logo=Kotlin&logoColor=white" target="_blank"></a>
-    <a target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Java-FF6347?style=for-the-badge&logo=javalenguage&logoColor=white" target="_blank"></a>
-    <a target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Compose-8FBC8F?style=for-the-badge&logo=Jetpackcompose&logoColor=white" target="_blank"></a>
+    <a href="https://kotlinlang.org/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Kotlin-6959CD?style=for-the-badge&logo=Kotlin&logoColor=white" target="_blank"></a>
+    <a href="https://docs.oracle.com/en/java/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Java-FF6347?style=for-the-badge&logo=javalenguage&logoColor=white" target="_blank"></a>
+    <a href="https://developer.android.com/jetpack/compose?gclid=Cj0KCQiAsburBhCIARIsAExmsu6AH45pT9nNviWEE8fk8I4ObpnJ7OeZvfpv9SvV8SrDWhc9ThZB_j0aAtKmEALw_wcB&gclsrc=aw.ds&hl=pt-br" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Compose-8FBC8F?style=for-the-badge&logo=Jetpackcompose&logoColor=white" target="_blank"></a>
   </div>
   
-  <!-- Skills: Tools & Frameworks -->
+  <!--->
   <div>
     <h3>Tools & Frameworks</h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="75" width="75"/>
