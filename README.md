@@ -9,16 +9,15 @@
 <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanbispo&layout=compact&langs_count=7&theme=dracula&include_all_commits=true&count_private=true"/>
 <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=Nanbispo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
----
+  <!--->
 <p>
   Olá 👋, Eu sou Renan, estudante de Programação.
 </p>
+<!--->
 
 <!-- Dropdown -->
-<details>
   <summary>👨‍💻 Mais sobre mim</summary>
-  - 💬 Tenho 18 anos, estudo programação mobile nativo, minhas habilidades em desenvolvimento são: Android, Kotlin, Java, Jackpack Compose e Firebase.
-</details>
+ 💬 Tenho 18 anos, estudo programação mobile nativo, minhas habilidades em desenvolvimento são: Android, Kotlin, Java e Jackpack Compose.
 <!-- Links -->
 
 ### Conheça minhas redes socias:  
@@ -40,7 +39,6 @@
     <a href="https://docs.oracle.com/en/java/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Java-FF6347?style=for-the-badge&logo=javalenguage&logoColor=white" target="_blank"></a>
     <a href="https://developer.android.com/jetpack/compose?gclid=Cj0KCQiAsburBhCIARIsAExmsu6AH45pT9nNviWEE8fk8I4ObpnJ7OeZvfpv9SvV8SrDWhc9ThZB_j0aAtKmEALw_wcB&gclsrc=aw.ds&hl=pt-br" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Compose-8FBC8F?style=for-the-badge&logo=Jetpackcompose&logoColor=white" target="_blank"></a>
   </div>
-  
   <!--->
   <div>
     <h3>Tools & Frameworks</h3>
