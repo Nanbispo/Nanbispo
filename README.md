@@ -8,6 +8,8 @@
 <a href="https://github.com/Nanbispo">
 <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanbispo&layout=compact&langs_count=7&theme=dracula&include_all_commits=true&count_private=true"/>
 <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=Nanbispo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nanbispo&bg_color=291b3e&color=cd7dba&line=9374c0&point=f1e9e9&area=true&hide_border=true&width=700&height=300)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
   <!--->
 <p>
