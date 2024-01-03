@@ -40,13 +40,13 @@
     <a href="https://developer.android.com/jetpack/compose?gclid=Cj0KCQiAsburBhCIARIsAExmsu6AH45pT9nNviWEE8fk8I4ObpnJ7OeZvfpv9SvV8SrDWhc9ThZB_j0aAtKmEALw_wcB&gclsrc=aw.ds&hl=pt-br" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Compose-8FBC8F?style=for-the-badge&logo=Jetpackcompose&logoColor=white" target="_blank"></a>
   </div>
   <!--->
+  
   <div>
     <h3>Tools & Frameworks</h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="75" width="75"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="75" width="75"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" height="75" width="75"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="75" width="75"/>
-          
   </div>
   
  
