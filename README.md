@@ -28,7 +28,7 @@
 ### Entre em contato:
   <a href="https://discord.com/channels/.renanbispo" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Discord-1E0BFF?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   [![Telegram](https://img.shields.io/badge/Telegram-fff?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/RenanBispo)
-  <a href = "mailto:renanjesusbispo@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contato.renanjesusbispo@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
 ## 🔥 Skills
