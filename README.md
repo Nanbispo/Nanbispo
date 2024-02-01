@@ -2,7 +2,7 @@
 <div id="user-content-toc" style="display: inline-block">
   <ul align="center">
     <h1 style="display: inline-block">Hello World</h1>
-    <h2>My name is Renan Bispo, I am a systems development student</h2>
+    <p>Programming student passionate about developing innovative solutions for the mobile world.</p>
 </div>
 
 <div align="center">
