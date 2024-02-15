@@ -19,7 +19,7 @@
   <div>
     <a href="https://docs.oracle.com/en/java/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Java-FF6347?style=for-the-badge&logo=Oracle&logoColor=white" target="_blank"></a>
     <a href="https://kotlinlang.org/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Kotlin-a626a6?style=for-the-badge&logo=Kotlin&logoColor=white" target="_blank"></a>
-    <a href="https://kotlinlang.org/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Android-008000a626a6?style=for-the-badge&logo=Android&logoColor=white" target="_blank"></a>
+    <a href="https://developer.android.com/?hl=pt-br" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Android-008000a626a6?style=for-the-badge&logo=Android&logoColor=white" target="_blank"></a>
   </div>
 
 <div>
