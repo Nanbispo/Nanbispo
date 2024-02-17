@@ -15,12 +15,12 @@
         You can find me on <a href="https://www.linkedin.com/in/renan-de-jesus-bispo-78a576243/">LinkedIn<a/>, <a href="https://www.instagram.com/nanbispo_/">Instagram<a/> and also on <a href="https://twitter.com/RenanBispo07">Twitter<a/> I'm open to collaborations, suggestions and feedback!
 
   <h2>Activities and technologies<h2/>
-  <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Kotlin-8b008b?style=for-the-badge&logo=Kotlin&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Java-cc5700?style=for-the-badge&logo=Oracle&logoColor=white" target="_blank"></a>
-    <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Gradle-5d8aa8?style=for-the-badge&logo=gradle&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Android-00cc39?style=for-the-badge&logo=Android&logoColor=white" target="_blank"</a>
-  <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Compose-1fa700?style=for-the-badge&logo=Jetpack Compose&logoColor=white" target="_blank"</a>
- <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/XML-475fff?style=for-the-badge&logo=Android xml&logoColor=white" target="_blank"></a>
+  <a href="https://kotlinlang.org/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Kotlin-8b008b?style=for-the-badge&logo=Kotlin&logoColor=white" target="_blank"></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/index.html" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Java-cc5700?style=for-the-badge&logo=Oracle&logoColor=white" target="_blank"></a>
+    <a href="https://docs.gradle.org/current/userguide/userguide.html" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Gradle-5d8aa8?style=for-the-badge&logo=gradle&logoColor=white" target="_blank"></a>
+  <a href="https://developer.android.com/?hl=pt-br" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Android-00cc39?style=for-the-badge&logo=Android&logoColor=white" target="_blank"</a>
+  <a href="https://developer.android.com/jetpack/compose" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Compose-1fa700?style=for-the-badge&logo=Jetpack Compose&logoColor=white" target="_blank"</a>
+ <a href="https://developer.android.com/develop/ui/views/layout/declaring-layout?hl=pt-br" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/XML-475fff?style=for-the-badge&logo=Android xml&logoColor=white" target="_blank"></a>
     <div>
 <a href="https://github.com/Nanbispo">
 <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanbispo&layout=compact&langs_count=7&theme=dracula&include_all_commits=true&count_private=true"/>
