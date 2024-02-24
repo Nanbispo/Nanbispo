@@ -21,6 +21,7 @@
   <a href="https://developer.android.com/?hl=pt-br" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Android-00cc39?style=for-the-badge&logo=Android&logoColor=white" target="_blank"</a>
   <a href="https://developer.android.com/jetpack/compose" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Compose-1fa700?style=for-the-badge&logo=Jetpack Compose&logoColor=white" target="_blank"</a>
  <a href="https://developer.android.com/develop/ui/views/layout/declaring-layout?hl=pt-br" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/XML-475fff?style=for-the-badge&logo=Android xml&logoColor=white" target="_blank"></a>
+<a href="https://developer.android.com/develop/ui/views/layout/declaring-layout?hl=pt-br" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/git-FFA500?style=for-the-badge&logo=git&logoColor=white" target="_blank"></a>
     <div>
 <a href="https://github.com/Nanbispo">
 <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanbispo&layout=compact&langs_count=7&theme=dracula&include_all_commits=true&count_private=true"/>
