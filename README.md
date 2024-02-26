@@ -18,7 +18,7 @@
     <a href="https://docs.gradle.org/current/userguide/userguide.html" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Gradle-5d8aa8?style=for-the-badge&logo=gradle&logoColor=white" target="_blank"></a>
     <a href="https://developer.android.com/?hl=pt-br" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Android-00cc39?style=for-the-badge&logo=Android&logoColor=white" target="_blank"</a>
     <a href="https://developer.android.com/jetpack/compose" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Compose-1fa700?style=for-the-badge&logo=Jetpack Compose&logoColor=white" target="_blank"</a>
-    <a href="https://developer.android.com/develop/ui/views/layout/declaring-layout?hl=pt-br" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/XML-475fff?style=for-the-badge&logo=Android xml&logoColor=white" target="_blank"></a>
+    <a href="https://developer.android.com/develop/ui/views/layout/declaring-layout?hl=pt-br" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/XML-475fff?style=for-the-badge&logo=Android&logoColor=white" target="_blank"></a>
     <a href="https://developer.android.com/develop/ui/views/layout/declaring-layout?hl=pt-br" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/git-FFA500?style=for-the-badge&logo=git&logoColor=white" target="_blank"></a>
 <div>
     <a href="https://github.com/Nanbispo"> 
