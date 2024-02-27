@@ -22,7 +22,6 @@
     <a href="https://developer.android.com/develop/ui/views/layout/declaring-layout?hl=pt-br" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/git-FFA500?style=for-the-badge&logo=git&logoColor=white" target="_blank"></a>
 <div>
     <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanbispo&layout=compact&langs_count=7&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img loading="lazy" height="170em" src = "https://github-readme-stats.vercel.app/api?username=Nanbispo&show_icons=true&theme=radical"/>
-    <img loading="lazy" height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nanbispo&theme=dracula&hide_border=false"/>
+    <img loading="lazy" height="170em" src = "https://github-readme-stats.vercel.app/api?username=Nanbispo&show_icons=true&theme=dracula"/>
     </div>
  
