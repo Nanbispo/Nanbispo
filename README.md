@@ -20,6 +20,7 @@
     <a href="https://developer.android.com/jetpack/compose" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Compose-1fa700?style=for-the-badge&logo=Jetpack Compose&logoColor=white" target="_blank"</a>
     <a href="https://developer.android.com/develop/ui/views/layout/declaring-layout?hl=pt-br" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Views-475fff?style=for-the-badge&logo=Android&logoColor=white" target="_blank"></a>
     <a href="https://git-scm.com/doc" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/git-FFA500?style=for-the-badge&logo=git&logoColor=white" target="_blank"></a>
+    <a href="https://git-scm.com/doc" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Postman-FF6600?style=for-the-badge&logo=postman&logoColor=white" target="_blank"></a>
 <div>
     <img loading="lazy"  src = "https://github-readme-stats.vercel.app/api?username=Nanbispo&show_icons=true&theme=dracula"/>
     </div>
