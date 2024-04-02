@@ -11,7 +11,7 @@
     <li>Experiments and learning in Java and Kotlin.
     <li>Possible collaborations and contributions to open source projects.
 <h2>Contact</h2>
-    <p>You can find me on <a href="https://www.linkedin.com/in/renan-de-jesus-bispo-78a576243/">LinkedIn<a/>, <a href="https://www.instagram.com/nanbispo_/">Instagram<a/> and also on <a href="https://twitter.com/RenanBispo07">Twitter<a/> I'm open to collaborations, suggestions and feedback!</p>
+    <p>You can find me on <a href="https://www.linkedin.com/in/renan-de-jesus-bispo-78a576243/">LinkedIn<a/>, <a href="https://www.instagram.com/nanbispo_/">Instagram<a/> I'm open to collaborations, suggestions and feedback!</p>
 <h2>Activities and technologies<h2/>
     <a href="https://kotlinlang.org/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Kotlin-8b008b?style=for-the-badge&logo=Kotlin&logoColor=white" target="_blank"></a>
     <a href="https://docs.oracle.com/en/java/javase/17/docs/api/index.html" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Java-cc5700?style=for-the-badge&logo=Oracle&logoColor=white" target="_blank"></a>
