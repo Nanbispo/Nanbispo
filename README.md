@@ -21,8 +21,8 @@
         <a href="https://git-scm.com/doc" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/git-FFA500?style=for-the-badge&logo=git&logoColor=white" target="_blank"></a>
         <a href="https://www.postman.com/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Postman-FF6600?style=for-the-badge&logo=postman&logoColor=white" target="_blank"></a>
 <p>Studing</p>
-        <a href="https://www.postman.com/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Spring-FF6600?style=for-the-badge&logo=spring&logoColor=white" target="_blank"></a>
-        <a href="https://www.postman.com/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/ktor-FF6600?style=for-the-badge&logo=kotr&logoColor=white" target="_blank"></a>
+        <a href="https://www.postman.com/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Spring-00FF00?style=for-the-badge&logo=spring&logoColor=white" target="_blank"></a>
+        <a href="https://www.postman.com/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/ktor-B773F7?style=for-the-badge&logo=ktor&logoColor=white" target="_blank"></a>
     <div>
         <img loading="lazy"  src = "https://github-readme-stats.vercel.app/api?username=Nanbispo&show_icons=true&theme=dracula"/>
     </div>
