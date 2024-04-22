@@ -14,15 +14,10 @@
     <p>You can find me on <a href="https://www.linkedin.com/in/renan-de-jesus-bispo-78a576243/">LinkedIn<a/>, <a href="https://www.instagram.com/nanbispo_/">Instagram<a/> I'm open to collaborations, suggestions and feedback!</p>
 <h2>Activities and technologies<h2/>
 <p>Skills<p>
-        <a href="https://kotlinlang.org/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Kotlin-8b008b?style=for-the-badge&logo=Kotlin&logoColor=white" target="_blank"></a>
-        <a href="https://docs.oracle.com/en/java/javase/17/docs/api/index.html" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Java-cc5700?style=for-the-badge&logo=Oracle&logoColor=white" target="_blank"></a>
-        <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Gradle-5d8aa8?style=for-the-badge&logo=gradle&logoColor=white" target="_blank"></a>
-        <a href=""><img src="https://img.shields.io/badge/maven-ff0000.svg?style=for-the-badge&logo=maven&logoColor=white"></a>
-        <a href="https://git-scm.com/doc" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/git-FFA500?style=for-the-badge&logo=git&logoColor=white" target="_blank"></a>
-        <a href="https://www.postman.com/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Postman-FF6600?style=for-the-badge&logo=postman&logoColor=white" target="_blank"></a>
+        <img src="https://skillicons.dev/icons?i=html,css,java,kotlin,gradle,maven,git,postman,figma" />
+        
 <p>Studing</p>
-        <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Spring-00FF00?style=for-the-badge&logo=spring&logoColor=white" target="_blank"></a>
-        <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/ktor-B773F7?style=for-the-badge&logo=ktor&logoColor=white" target="_blank"></a>
+        <img src="https://skillicons.dev/icons?i=ktor,spring,postgres" />
     <div>
         <img loading="lazy"  src = "https://github-readme-stats.vercel.app/api?username=Nanbispo&show_icons=true&theme=dracula"/>
     </div>
