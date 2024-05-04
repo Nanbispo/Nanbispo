@@ -14,7 +14,7 @@
     <p>You can find me on <a href="https://www.linkedin.com/in/renan-de-jesus-bispo-78a576243/">LinkedIn<a/>, <a href="https://www.instagram.com/nanbispo_/">Instagram<a/> I'm open to collaborations, suggestions and feedback!</p>
 <h2>Activities and technologies<h2/>
 <p>Skills<p>
-        <img src="https://skillicons.dev/icons?i=java,kotlin,maven,git,postman,figma" />
+        <img src="https://skillicons.dev/icons?i=java,kotlin,maven,git,postman" />
         
 <p>Studing</p>
         <img src="https://skillicons.dev/icons?i=spring,postgres" />
