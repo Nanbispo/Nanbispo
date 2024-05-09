@@ -17,7 +17,7 @@
         <img src="https://skillicons.dev/icons?i=java,kotlin,maven,git,postman" />
         
 <p>Studing</p>
-        <img src="https://skillicons.dev/icons?i=spring,postgres" />
+        <img src="https://skillicons.dev/icons?i=spring,postgres,docker"/>
     <div>
         <img loading="lazy"  src = "https://github-readme-stats.vercel.app/api?username=Nanbispo&show_icons=true&theme=dracula"/>
     </div>
